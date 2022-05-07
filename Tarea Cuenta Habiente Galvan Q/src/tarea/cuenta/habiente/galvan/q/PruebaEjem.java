@@ -13,7 +13,7 @@ public class PruebaEjem {
          
         CuentaHabiente[] cuentas = new CuentaHabiente[5];   
         cuentas[0]=new CuentaHabiente("HEcGA08033","Héctor Galvan", 75000);
-        cuentas[1]=new CuentaHabiente("Ficc10084","Filiberto Castillo", 41500);
+        cuentas[1]=new CuentaHabiente("Ficc10084","Filiberto Castillo", 85000);
         cuentas[2]=new CuentaHabiente("JaGc09124","Jonathan Giron", 56000);
         cuentas[3]=new CuentaHabiente("Vach05012","Vanessa Hernandez", 49999);
         cuentas[4]=new CuentaHabiente("Mass02901","Miguel Sainz", 50025);
